@@ -8,7 +8,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 
-<img height="200" src="https://github.com/cloudyan/cloudyan/blob/master/static/hang.gif">
+[![cloudyan's github stats](https://github-readme-stats.vercel.app/api?username=cloudyan&show_icons=true&hide_title=true])](https://github.com/cloudyan)
 
 <!--
 **cloudyan/cloudyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
