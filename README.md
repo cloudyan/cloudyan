@@ -19,10 +19,8 @@ Here are some ideas to get you started:
 
 ## 当前在做的事情
 
-- ChatGPT
-- nextjs 全栈开发
 - f2e-knowledge 前端知识体系，整理中...
-- 百度 [amis](https://github.com/baidu/amis) 适配改造
+- 探究 nextjs 全栈开发
 
 ## 已经完成的事情
 
@@ -34,13 +32,14 @@ Here are some ideas to get you started:
 - 前端工程化
   - 脚手架
   - 组件库
-  - 自动化测试（单元测试），对接 sonar
-  - 代码规范检查，增量检查，对接 sonar
+  - 自动化测试（单元测试），对接 sonar 平台
+  - 代码规范检查，增量检查，对接 sonar 平台
   - 定制前端构建部署流程
 - 制定前端代码规范
 
 ## 点点滴滴
 
+- 百度 [amis](https://github.com/baidu/amis) 适配改造
 - [npm-modules](https://github.com/cloudyan/npm-modules) 源码系列
 - 算法相关
   - [leetcode](https://github.com/cloudyan/leetcode)
