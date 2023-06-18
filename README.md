@@ -17,18 +17,18 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=cloudyan&show_icons=true" alt="logo" height="160" align="right" /> -->
 
-## 当前在做的事情
+## TODO
 
 - f2e-knowledge 前端知识体系，整理中...
 - 探究 nextjs 全栈开发
 
-## 已经完成的事情
+## Doing
 
 - 实施前端灰度发布方案
+- 定制 lint 代码检查工具，支持一键接入、一键升级
 - 前端性能优化，首屏性能 FMP Apdex 指数提升 20%
 - 前端错误监控+前端告警，错误率 1% ==> 0.005%
 - 基于 serverless 实现前端告警（数据阿里云 arms）
-- 定制 lint 代码检查工具，支持一键接入、一键升级
 - 前端工程化
   - 脚手架
   - 组件库
