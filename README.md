@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 ## Doing
 
-- 实施前端灰度发布方案
-- 定制 lint 代码检查工具，支持一键接入、一键升级
+- 定制并实施前端灰度发布方案
+- 制定前端代码规范，定制 lint 工具，支持一键接入、一键升级
 - 前端性能优化，首屏性能 FMP Apdex 指数提升 20%
 - 前端错误监控+前端告警，错误率 1% 优化降到 0.005%
 - 基于 serverless 实现前端告警（数据阿里云 arms）
@@ -35,7 +35,6 @@ Here are some ideas to get you started:
   - 自动化测试（单元测试），对接 sonar 平台
   - 代码规范检查，增量检查，对接 sonar 平台
   - 定制前端构建部署流程
-- 制定前端代码规范
 
 ## 点点滴滴
 
