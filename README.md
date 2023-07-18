@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="https://www.tickcounter.com/countdown/4272930/super-ai-deadline" rel="nofollow" style="float: right; margin-top: -40px">Super AI Deadline</a>
 <!--
 **cloudyan/cloudyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +17,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=cloudyan&show_icons=true" alt="logo" height="160" align="right" /> -->
-
-<!-- <iframe src="https://www.tickcounter.com/countdown/4272930/super-ai-deadline"></iframe> -->
 
 ## Doing
 
@@ -53,9 +52,6 @@ Here are some ideas to get you started:
 
 - 百度 [amis](https://github.com/baidu/amis) 适配改造
 - [npm-modules](https://github.com/cloudyan/npm-modules) 源码系列
-- 算法相关
-  - [leetcode](https://github.com/cloudyan/leetcode)
-  - [javascript-algorithms](https://github.com/cloudyan/javascript-algorithms)
 - [各种异常问题处理](https://www.yuque.com/cloudyan/faq) 语雀杂记
 - [lowcode-monorepo](https://github.com/cloudyan/lowcode-monorepo/tree/dev) monorepo 实践
 - [learn-javascript](https://github.com/cloudyan/learn-javascript) 重学 JavaScript 系列
@@ -65,11 +61,8 @@ Here are some ideas to get you started:
 - [lint-example](https://github.com/cloudyan/lint-example) 静态代码检查从 0 到 1 探究过程
 - [deploy-example](https://github.com/cloudyan/deploy-example) 前端部署操作实践
 - [cdn-cli](https://github.com/cloudyan/cdn-cli/tree/feature/lib) 命令行上传工具（支持阿里云 OSS）
-- [umi-plugin-sentry](https://github.com/cloudyan/umi-plugin-sentry) sentry 插件，支持 sourceMap 上传
+- [umi-plugin-sentry](https://github.com/cloudyan/umi-plugin-sentry) sentry umi 插件，支持 sentry 接入、sourceMap 上传
 - [lighthouse-ci](https://github.com/cloudyan/lighthouse-ci) 巡检系统探究
-- [learn-jest](https://github.com/cloudyan/learn-jest) jest 单测入门
-- [diy-x](https://github.com/cloudyan/diy-x) 一些手写小练习
-- [learn-docker](https://github.com/cloudyan/learn-docker) docker 练习
 - [learn-webpack](https://github.com/cloudyan/learn-webpack) webpack 配置、调试分析等
 - [learn-git](https://github.com/cloudyan/learn-git/tree/master/docs) Git 命令行及工作流、多账户配置等
 - [debugging](https://github.com/cloudyan/debugging) 各种调试手段探究
