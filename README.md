@@ -17,24 +17,37 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=cloudyan&show_icons=true" alt="logo" height="160" align="right" /> -->
 
-## TODO
-
-- f2e-knowledge 前端知识体系，整理中...
-- 探究 nextjs 全栈开发
+<!-- <iframe src="https://www.tickcounter.com/countdown/4272930/super-ai-deadline"></iframe> -->
 
 ## Doing
 
-- 定制并实施前端灰度发布方案
-- 制定前端代码规范，定制 lint 工具，支持一键接入、一键升级
-- 前端性能优化，首屏性能 FMP Apdex 指数提升 20%
-- 前端错误监控+前端告警，错误率 1% 优化降到 0.005%
-- 基于 serverless 实现前端告警（数据阿里云 arms）
-- 前端工程化
-  - 脚手架
-  - 组件库
-  - 自动化测试（单元测试），对接 sonar 平台
-  - 代码规范检查，增量检查，对接 sonar 平台
-  - 定制前端构建部署流程
+- f2e-knowledge 前端知识体系，整理中...
+- nextjs 全栈开发
+- 资源容灾解决方案
+- 前端质量-缺陷密度治理
+
+## 落地项目
+
+- 2023 主导前端灰度发布方案（免 pod 合并部署方案、全链路灰度计划、灰度监控支持）
+- 2022 制定前端质量与性能指标体系，实施监控与告警，主导性能优化与故障治理，成效显著：
+  - 首屏性能提升 15%（65 ==> 75）
+  - 错误率降低 99%（1% ==> 0.004%）
+  - 离线包体积减少 40%
+- 2022 前端监控实时告警系统（serverless）
+- 2022 制定前端代码规范，配套规则分层设计
+  - 包含 editorconfig,prettier,eslint,stylelint,commitlint,husky,lint-staged
+  - 自研 cli 工具，支持一键接入、一键升级、健康检查
+- 2021 定制前端构建部署流程
+  - 自动化测试（单元测试），对接 DevOps 平台(sonar testing)
+  - 代码规范检查（增量），对接 DevOps 平台(sonar lint)
+- 2021 前端工程化建设（统一技术栈、构建工具，建设脚手架、组件库、自动化测试、构建部署）
+- 2019 自研前端监控系统（性能、异常）
+  - 以前使用 log + ElasticSearch + kibana，现在可用 sls
+- 2018 自研业务埋点系统
+- 2018 vuex 魔改支持原生小程序（微信小程序、支付宝小程序）
+- 2018 自研可视化搭建系统（vue+vuex）
+- 2016 gulp 实现前端构建系统，支持按需加载、cdn 增量部署
+- 2015 自研 SPA 单页面应用框架（requireJs + backbone + zepto）
 
 ## 点点滴滴
 
