@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   - 代码规范检查（增量），对接 DevOps 平台(sonar lint)
 - 2021 前端工程化建设（统一技术栈，构建工具及构建优化，建设脚手架、组件库、自动化测试，构建部署流程建设）
 - 2019 自研前端监控系统（性能、异常）
-  - 以前使用 log + ElasticSearch + kibana，现在可用 sls
+  - 以前使用 log + ElasticSearch + kibana，现在用 sls
 - 2018 自研业务埋点系统
 - 2018 vuex 魔改支持原生小程序（微信小程序、支付宝小程序）
 - 2018 自研可视化搭建系统（vue+vuex）
