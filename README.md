@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 ## Doing
 
-- f2e-knowledge 前端知识体系，整理中...
 - nextjs 全栈开发
 - 资源容灾解决方案
 - Docker 构建容器升级
