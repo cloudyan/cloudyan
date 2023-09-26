@@ -53,19 +53,19 @@ Here are some ideas to get you started:
 ## 点点滴滴
 
 - 百度 [amis](https://github.com/baidu/amis) 适配改造
-- [npm-modules](https://github.com/cloudyan/npm-modules) 源码系列
+- [npm-modules](https://github.com/cloudyan/npm-modules) 常用 npm 模块源码解析
 - [各种异常问题处理](https://www.yuque.com/cloudyan/faq) 语雀杂记
-- [lowcode-monorepo](https://github.com/cloudyan/lowcode-monorepo/tree/dev) monorepo 实践
+- [lowcode-monorepo](https://github.com/cloudyan/lowcode-monorepo/tree/dev) Low-Code Engine monorepo 实践
+- [learn-mobx](https://github.com/cloudyan/learn-mobx) 阿里低代码引擎前置基础，简单练习
 - [learn-javascript](https://github.com/cloudyan/learn-javascript) 重学 JavaScript 系列
 - [learn-playwright](https://github.com/cloudyan/learn-playwright) 探究自动化，实现 2FA 登录
-- [learn-mobx](https://github.com/cloudyan/learn-mobx) 阿里低代码引擎前置基础，简单练习
-- [learn-sql](https://github.com/cloudyan/learn-sql) 要使用 SLS，练习下 SQL 基础
+- [learn-sql](https://github.com/cloudyan/learn-sql) 要使用 SLS，练习 SQL 基础，SLS 查询
 - [lint-example](https://github.com/cloudyan/lint-example) 静态代码检查从 0 到 1 探究过程
 - [deploy-example](https://github.com/cloudyan/deploy-example) 前端部署操作实践
 - [cdn-cli](https://github.com/cloudyan/cdn-cli/tree/feature/lib) 命令行上传工具（支持阿里云 OSS）
 - [umi-plugin-sentry](https://github.com/cloudyan/umi-plugin-sentry) sentry umi 插件，支持 sentry 接入、sourceMap 上传
 - [lighthouse-ci](https://github.com/cloudyan/lighthouse-ci) 巡检系统探究
-- [learn-webpack](https://github.com/cloudyan/learn-webpack) webpack 配置、调试分析等
+- [learn-webpack](https://github.com/cloudyan/learn-webpack) webpack 配置，产物分析，调试分析等
 - [learn-git](https://github.com/cloudyan/learn-git/tree/master/docs) Git 命令行及工作流、多账户配置等
 - [debugging](https://github.com/cloudyan/debugging) 各种调试手段探究
 - [cross-domain](https://github.com/cloudyan/cross-domain) 各种跨域方案、本地实现 https
