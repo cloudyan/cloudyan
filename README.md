@@ -70,3 +70,4 @@ Here are some ideas to get you started:
 - [debugging](https://github.com/cloudyan/debugging) 各种调试手段探究
 - [cross-domain](https://github.com/cloudyan/cross-domain) 各种跨域方案、本地实现 https
 - [snowflake](https://github.com/cloudyan/snowflake) Twitter 雪花算法的 JS 实现，支持分布式、自增 ID
+- [js_block](https://github.com/webcoding/js_block) 研究学习各种拦截：反爬虫、拦截ad、防广告注入、斗黄牛等
