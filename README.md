@@ -18,6 +18,7 @@
   ![Antd](https://img.shields.io/badge/-Antd-0170FE?style=plastic&logo=AntDesign)
   ![Nodejs](https://img.shields.io/badge/-Nodejs-3b2e5a?style=plastic&logo=ts-node)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+  ![Umi](https://img.shields.io/badge/-Umi-0a82ed?style=plastic&logo=Umi)
   ![Taro](https://img.shields.io/badge/-Taro-181717?style=plastic&logo=react)
   ![Claude Code](https://img.shields.io/badge/-Claude%20Code-C15F3C?style=plastic&logo=claude)
 - 🌱 Learning all about:
