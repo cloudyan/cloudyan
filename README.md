@@ -11,6 +11,7 @@
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+  ![OpenCode](https://img.shields.io/badge/-OpenCode-223355?style=plastic&logo=OpenCode)
   ![Neovate Code](https://img.shields.io/badge/-Neovate%20Code-ff447f?style=plastic&logo=neovate)
 - 💻 I work using:
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
