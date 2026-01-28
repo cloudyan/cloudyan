@@ -7,7 +7,6 @@
 - 🚀 I use daily:
   ![Typescript](https://img.shields.io/badge/-Typescript-black?style=plastic&logo=typescript)
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=React)
-  ![Nodejs](https://img.shields.io/badge/-Nodejs-3b2e5a?style=plastic&logo=ts-node)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
